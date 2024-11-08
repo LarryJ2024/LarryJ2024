@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LarryJ2024
 - 👀 I’m interested in bird song id analysis.
 - 🌱 I’m currently learning about Chirpity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on use of Chirpity.
+- 📫 How to reach me: use Github.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am not a programmer nor a developer.
 
